@@ -133,11 +133,11 @@ img {
     }
 }
 
+
 @media all and (max-width: 480px){
     .row{
         display: block;
     }
-    
     .lessons .col,
     .steps .col,
     .why-us .col-left,
